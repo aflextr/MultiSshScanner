@@ -5,4 +5,5 @@ cd MultiSshScanner
 mv * ..
 cd ..
 rm -r MultiSshScanner
+curl https://raw.githubusercontent.com/aflextr/MultiSshScanner/master/version
 chmod +x *
