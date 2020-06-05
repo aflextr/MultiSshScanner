@@ -10,8 +10,11 @@ instagram adresim : @eyup.elitas2
 
 ***********************************************
 sudo apt update
+
 sudo apt upgrade
+
 sudo apt install curl cat git
+
 ************************************************
 
 # Çalıştırma 🖱🖱🖱
