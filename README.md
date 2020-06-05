@@ -44,4 +44,6 @@ pass_file ---- Kullanıcı Adı ve Şifrenin bulunduğu kısım (Kendiniz Ekleme
 
 random ------- taranacak rastgele sayı girer
 
+guncelleme --- Programı Günceller
+
 *************************************************
