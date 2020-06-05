@@ -22,6 +22,8 @@ sudo apt install curl cat git python python3
 ************************************************
 ROOT GEREKİR
 
+cd MultiSshScanner
+
 chmod +x *
 
 ./go sayi (1 ile 255 arası)
@@ -29,7 +31,9 @@ chmod +x *
 örn: ./go 15 (15 ip aralığını tarıyor)
 
 ./random (rastgele sayı aralığını tarar)
+
 ************************************************
+
 
 
 # Dosya anlamları ℹℹℹ
