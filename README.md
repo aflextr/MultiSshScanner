@@ -33,8 +33,13 @@ ROOT GEREKİR
 # Dosya anlamları ℹℹℹ
 ************************************************
 bios.txt ----- Ssh ip-lerin bulunduğu kısım
+
 go ----------- Programın çalışacağı dosya
+
 clean -------- Çıkarılan sonuçları temizler (Program hariç)
+
 pass_file ---- Kullanıcı Adı ve Şifrenin bulunduğu kısım (Kendiniz Ekleme ve çıkarma yapabilirsiniz)
+
 random ------- taranacak rastgele sayı girer
+
 *************************************************
