@@ -13,7 +13,7 @@ sudo apt update
 
 sudo apt upgrade
 
-sudo apt install curl cat git
+sudo apt install curl cat git python python3
 
 ************************************************
 
