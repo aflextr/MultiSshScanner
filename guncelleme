@@ -1,0 +1,8 @@
+echo -e "Program Güncelleniliyor"
+rm -r *
+git clone https://github.com/aflextr/MultiSshScanner.git
+cd MultiSshScanner
+mv * ..
+cd ..
+rm -r MultiSshScanner
+chmod +x *
