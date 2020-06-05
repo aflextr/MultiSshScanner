@@ -22,6 +22,8 @@ sudo apt install curl cat git
 ************************************************
 ROOT GEREKİR
 
+chmod +x *
+
 ./go sayi (1 ile 255 arası)
 
 örn: ./go 15 (15 ip aralığını tarıyor)
