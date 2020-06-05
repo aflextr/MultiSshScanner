@@ -1,0 +1,5 @@
+#!/bin/bash
+B=$1
+while read line; do
+echo "[SSH] KullanıcıAdı: $(echo $line |cut -d ":" -f 1) Şifre: $(echo $line |cut -d ":" -f 2) IP: $(echo $line |cut -d ":" -f 3)" >>eof.txt
+done < $B
