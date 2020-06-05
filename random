@@ -1,7 +1,7 @@
 #!/bin/bash
 while :
 do
-#SMU Random Infinite Class
+#SMU Rastgele sayı sınıfı
 #################################
 RANGE=254
 number=$RANDOM
